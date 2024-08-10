@@ -1,0 +1,6 @@
+#heading{
+    background: rgb(67,203,255);
+    background: linear-gradient(90deg, rgba(67,203,255,1) 0%, rgba(7,112,223,1) 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}

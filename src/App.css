@@ -1,0 +1,4 @@
+.Main-body{
+    background: rgb(107,107,108);
+    background: linear-gradient(90deg, rgba(107,107,108,1) 0%, rgba(59,59,71,1) 0%, rgba(10,15,16,1) 100%);
+}

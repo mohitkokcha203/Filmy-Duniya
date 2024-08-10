@@ -1,0 +1,69 @@
+.parentbox {
+    width: 100%;
+    height: 89vh;
+    /* background-image: url(https://wallpapergod.com/images/hd/movie-1920X1080-wallpaper-z0puq43u0qbtr6j2.jpeg); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    .parent {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .main {
+        width: 360px;
+        height: 480px;
+        overflow: hidden;
+        border-radius: 10px;
+        box-shadow: 5px 20px 50px #ffffff;
+        background-color: #5c5c5c2d;
+  
+        #chk {
+          display: none;
+        }
+  
+        .signup {
+          #head {
+            color: #fff;
+            font-size: 2.3em;
+            justify-content: center;
+            display: flex;
+            margin: 45px;
+            font-weight: bold;
+            cursor: pointer;
+          }
+          .input {
+            width: 70%;
+            height: 20px;
+            background: #ececec;
+            justify-content: center;
+            display: flex;
+            margin: 20px auto;
+            padding: 20px;
+            border: none;
+            outline: none;
+            border-radius: 5px;
+          }
+          
+          .Sbutton:hover {
+            border-color: #2294ed !important;
+            background-color: #2294ed !important;
+          }
+          #new {
+            margin: 40px;
+            color: white;
+          }
+          #Lbutton{
+            background-color: rgb(229, 9, 20);
+            color: #ffffff;
+            
+            padding: 3px 10px;
+            border-radius: 10px;
+            display: flex;
+            margin-left: 150px;
+          }
+        }
+      }
+    }
+  }
+  
