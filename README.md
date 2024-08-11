@@ -8,7 +8,7 @@
 7.  Movies on Watch list can delete by user if user can see the movie
 8. .User can Explore his favourite movies ,click on Explore Movie and Search Movies name and Movie Card will display can get infomation about the movies .
 9. Explore Movies data can fetch using an API ,so it take some time,please wait
-10. View Project- https://filmy-duniya-bpy2n35y7-mohit-kumar-kokchas-projects.vercel.app
+10. View Project- https://filmy-duniya-1u10iic6k-mohit-kumar-kokchas-projects.vercel.app/
 11. Any fixes are welcome!
 12. Thank You
 13. <img width="923" alt="p1" src="https://github.com/user-attachments/assets/f2b12471-d9d8-4cd9-b2bb-b2b75643fad4">.
